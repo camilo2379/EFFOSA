@@ -56,7 +56,7 @@ body {
   font-weight: 300;
   line-height: 1.625em;
   position: relative;
-  background:#f1de02;
+  background:#9cfbb1;
 }
 
 ol, ul {
@@ -2125,7 +2125,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu li:hover > a, .nav-menu > .menu-active > a {
-  color: #f1de02;
+  color: #28a745;
 }
 
 .nav-menu > li {
@@ -2457,7 +2457,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .banner-content .bar {
   height: 1px;
-  background-color: #f1de02;
+  background-color: #28a745;
   width: 30%;
   display: block;
   text-align: center;
@@ -2940,7 +2940,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-area {
-  background-color: #fff;
+  background-color: #dee2e6;
 }
 
 .footer-area h4 {
@@ -2955,7 +2955,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-area .genric-btn {
-  background: #f6214b;
+  background: #28a745;
   border: none;
   border-radius: 57px;
   height: 36px;
